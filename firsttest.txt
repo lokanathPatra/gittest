@@ -1,11 +1,11 @@
 This is my first test .....
 2nd test......
 
-<<<<<<< Updated upstream
 
 
 
-backup test...pre commit 188888
-=======
-git stash test
->>>>>>> Stashed changes
+
+backup test...pre commit 188888...checking
+
+
+
